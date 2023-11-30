@@ -6,7 +6,7 @@ to them - erratically repeating the end fragment of the first sentence and event
 a sports report. Other inspirations of the moment were B S Johnson and repetitious but superficially
 plausible AI news content.
 
-![Example output, the first paragraph of the book](https://raw.githubusercontent.com/kevandotorg/nanogenmo-2023/main/screenshot.png?)
+![Example output](https://raw.githubusercontent.com/kevandotorg/nanogenmo-2023/main/screenshot.png?)
 
 There are some mild OCR errors in there which aren't strictly in the spirit of the original, but they're not too far off.
 
