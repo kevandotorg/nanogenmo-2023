@@ -1,0 +1,44 @@
+body { font-family: Crimson Pro;
+  margin: 0em 25% 10em 25%; }
+
+h1 { text-transform: uppercase;
+  font-size: 6.0em;
+  text-align: center;
+  line-height: 0.7em;
+  margin: 0.1em;  }
+
+h2 { font-family: Archivo Narrow;
+  font-size: 3em;
+  line-height: 0.8em;
+  margin: 1.5em 0em 0.5em 0.3em; }
+
+.story {
+	column-count:2;
+	align:top;
+}
+
+a { color:#000; }
+
+p { 
+  margin: 0em 0em 1em 0em;
+  text-indent: 1em;
+  text-align: justify;
+}
+
+p.cramped {   margin: 0em 0em 0em 0em; }
+
+.firstpara { text-indent:0em; }
+
+.date { text-align: center;
+  margin: 0em 0em 2em 0em;
+font-size: 0.9em; }
+
+.intro { text-align: justify;
+  margin: 0em 10% 6em 10%; }
+  
+  
+@media screen and (max-width: 700px) {
+	
+body { margin:1em; }
+
+}
